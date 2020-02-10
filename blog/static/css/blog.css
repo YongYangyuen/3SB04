@@ -1,7 +1,7 @@
 <a href="https://en.wikipedia.org/wiki/Django" class="external_link" id="link_to_wiki_page">
 
 h1 a, h2 a {
-    color: #C25100;
+    color: red;
     font-family: 'Lobster';
 }
 
@@ -10,7 +10,7 @@ body {
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: red;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
